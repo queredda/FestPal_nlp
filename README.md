@@ -2,6 +2,14 @@
 
 Chatbot cerdas untuk festival musik dengan dukungan CLI dan Discord. Bot ini menyediakan informasi tiket, jadwal artis, lokasi venue, dan customer service untuk Festival FestPal.
 
+## Description
+
+Tugas Project Naural Language Processing 2025
+| Nama | NIM |
+|--|--|
+| Flavia Hidayriamraata Pualam | 22/494376/TK54219 |
+| Mahsa Quereda Bahjah | 22/503299/TK/54984 |
+
 ## Features
 
 - **Manajemen Tiket**: Harga, kategori, cara beli, refund, dan troubleshooting
@@ -16,6 +24,7 @@ Chatbot cerdas untuk festival musik dengan dukungan CLI dan Discord. Bot ini men
 ## Quick Start
 
 ### Prerequisites
+
 - Python 3.8+
 - Discord Bot Token (opsional untuk Discord mode)
 
@@ -124,6 +133,7 @@ pytest tests/ -v
 ```
 
 ### Test Coverage
+
 - **Core Bot Functionality**: 25 tests covering greetings, identity, help, tickets
 - **Utility Functions**: 4 tests for reflection mapping, lineup formatting, data validation
 - **Pattern Matching**: Tests for all regex patterns and response handling
@@ -158,7 +168,9 @@ bot/
 ## Technical Implementation
 
 ### Regex Pattern Matching
+
 Bot menggunakan 40+ regex patterns untuk mengenali intent pengguna:
+
 - **Greetings & Identity**: Deteksi salam dan pertanyaan identitas
 - **Ticket Management**: Harga, kategori, pembelian, refund dengan order tracking
 - **Event Information**: Lineup, jadwal, guest stars dengan parsing waktu
@@ -166,15 +178,18 @@ Bot menggunakan 40+ regex patterns untuk mengenali intent pengguna:
 - **Customer Support**: QR issues, e-ticket problems, emergency assistance
 
 ### Reflection Mapping
+
 Fitur NLP untuk mengubah perspektif pronoun dalam percakapan:
+
 ```python
 # Contoh reflection mapping
 "saya senang" → "kamu senang"
-"punyaku hilang" → "punyamu hilang" 
+"punyaku hilang" → "punyamu hilang"
 "my ticket" → "your ticket"
 ```
 
 ### Logging & Monitoring
+
 - Comprehensive logging untuk CLI dan Discord modes
 - Error handling dan graceful degradation
 - Performance monitoring untuk response times
