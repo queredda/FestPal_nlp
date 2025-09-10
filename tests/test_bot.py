@@ -23,7 +23,7 @@ class TestChatBotCore:
             "siapa namamu?",
             "who are you",
             "siapa kamu",
-            "siapa anda",
+            "siapa anda", 
             "who r u",
             "who u",
             "nama kamu apa",
@@ -265,8 +265,12 @@ class TestChatBotCore:
         for question in thank_questions:
             response = bot_instance.reply(question)
             assert "sama-sama" in response.lower()
-
-        goodbye_questions = ["bye", "goodbye", "sampai jumpa"]
+        
+        goodbye_questions = [
+            "bye",
+            "goodbye",
+            "sampai jumpa",
+        ]
         for question in goodbye_questions:
             response = bot_instance.reply(question)
             assert "sampai jumpa" in response.lower() or "festival" in response.lower()
@@ -300,7 +304,7 @@ class TestUtilityFunctions:
         """Test bidirectional reflection mapping works correctly"""
         test_cases = [
             ("saya senang", "kamu senang"),
-            ("aku sedih", "kamu sedih"),
+            ("aku sedih", "kamu sedih"), 
             ("kamu baik", "saya baik"),
             ("anda ramah", "saya ramah"),
             ("my name", "your name"),
@@ -312,7 +316,7 @@ class TestUtilityFunctions:
             ("punyamu bagus", "punyaku bagus"),
             ("namaku John", "namamu john"),
             ("namamu apa", "namaku apa"),
-            ("milikku rusak", "milikmu rusak"),
+            ("milikku rusak", "milikmu rusak"), 
             ("milikmu bagus", "milikku bagus"),
             ("mine is broken", "yours is broken"),
             ("yours works", "mine works"),
