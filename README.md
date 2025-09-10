@@ -91,7 +91,7 @@ Bot: Sampai jumpa!
 
 ### Discord Demo
 
-![Discord Bot Demo](docs/discord-demo.gif)
+![Discord Bot Demo](demo/nlp_demo.gif)
 
 Bot merespons dengan format yang sama di Discord server.
 
