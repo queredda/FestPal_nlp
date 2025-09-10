@@ -63,3 +63,270 @@
 2025-09-07 16:21:58,801 - INFO - CLI user query: 'festival info'
 2025-09-07 16:21:58,802 - INFO - CLI bot response provided
 2025-09-07 16:27:37,163 - INFO - CLI session ended by user
+2025-09-09 16:18:06,091 - INFO - FestPal Bot starting - Mode: CLI
+2025-09-09 16:18:06,093 - INFO - FestPal Bot CLI started
+2025-09-09 16:18:16,080 - INFO - CLI user query: 'Halo'
+2025-09-09 16:18:16,081 - INFO - CLI bot response provided
+2025-09-09 16:18:21,595 - INFO - CLI user query: 'hi'
+2025-09-09 16:18:21,596 - INFO - CLI bot response provided
+2025-09-09 16:18:24,718 - INFO - CLI user query: 'kamu siapa'
+2025-09-09 16:18:24,719 - INFO - CLI bot response provided
+2025-09-09 16:18:28,956 - INFO - CLI user query: 'siapa kamu'
+2025-09-09 16:18:28,957 - INFO - CLI bot response provided
+2025-09-09 16:20:53,402 - INFO - CLI user query: 'contact'
+2025-09-09 16:20:53,411 - INFO - CLI bot response provided
+2025-09-09 16:20:58,762 - INFO - CLI user query: 'cs'
+2025-09-09 16:20:58,762 - INFO - CLI bot response provided
+2025-09-09 16:21:04,274 - INFO - CLI user query: 'parkir'
+2025-09-09 16:21:04,275 - INFO - CLI bot response provided
+2025-09-09 16:21:09,811 - INFO - CLI user query: 'lineup'
+2025-09-09 16:21:09,812 - INFO - CLI bot response provided
+2025-09-09 16:21:12,708 - INFO - CLI user query: 'qr'
+2025-09-09 16:21:12,709 - INFO - CLI bot response provided
+2025-09-09 16:21:27,028 - INFO - CLI user query: 'refund #order232'
+2025-09-09 16:21:27,030 - INFO - CLI bot response provided
+2025-09-09 16:21:34,728 - INFO - CLI user query: 'bisa ovo ga?'
+2025-09-09 16:21:34,729 - INFO - CLI bot response provided
+2025-09-09 16:22:03,384 - INFO - CLI user query: 'clear'
+2025-09-09 16:22:03,385 - INFO - CLI bot response provided
+2025-09-09 16:22:05,006 - INFO - CLI session ended by keyboard interrupt
+2025-09-09 16:22:10,591 - INFO - FestPal Bot starting - Mode: Discord
+2025-09-09 16:22:10,591 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-09 16:22:10,594 - INFO - Starting Discord bot...
+2025-09-09 16:22:10,594 - INFO - logging in using static token
+2025-09-09 16:22:13,019 - INFO - Shard ID None has connected to Gateway (Session ID: 3a2d189f33a51ba202d8a0682249d559).
+2025-09-09 16:22:15,022 - INFO - Discord bot logged in as FestPal#5061 (id: 1414137459897536557)
+2025-09-09 16:22:58,089 - INFO - FestPal Bot starting - Mode: Discord
+2025-09-09 16:22:58,090 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-09 16:22:58,092 - INFO - Starting Discord bot...
+2025-09-09 16:22:58,092 - INFO - logging in using static token
+2025-09-09 16:23:00,067 - INFO - Shard ID None has connected to Gateway (Session ID: c2a43cb5cdc2bfa46e6f61d08491d812).
+2025-09-09 16:23:02,074 - INFO - Discord bot logged in as FestPal#5061 (id: 1414137459897536557)
+2025-09-09 16:23:11,152 - INFO - Discord message from queredda: '<@1414137459897536557> halo'
+2025-09-09 16:23:11,602 - INFO - Discord response sent
+2025-09-09 16:24:19,117 - INFO - Discord message from queredda: 'kamu bisa apa?'
+2025-09-09 16:24:19,805 - INFO - Discord response sent
+2025-09-09 16:24:44,248 - INFO - FestPal Bot starting - Mode: Discord
+2025-09-09 16:24:44,248 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-09 16:24:44,251 - INFO - Starting Discord bot...
+2025-09-09 16:24:44,251 - INFO - logging in using static token
+2025-09-09 16:24:46,458 - INFO - Shard ID None has connected to Gateway (Session ID: e57bdd4214dc1f48315a1ba0791ab02d).
+2025-09-09 16:24:48,462 - INFO - Discord bot logged in as FestPal#5061 (id: 1414137459897536557)
+2025-09-09 16:25:05,698 - INFO - Discord message from queredda: 'halo <@1414137459897536557>'
+2025-09-09 16:25:06,355 - INFO - Discord response sent
+2025-09-09 16:25:09,867 - INFO - Discord message from queredda: 'saya butuh bantuan'
+2025-09-09 16:25:10,346 - INFO - Discord response sent
+2025-09-09 16:25:28,478 - INFO - Discord message from queredda: 'siapa guest star nya?'
+2025-09-09 16:25:29,394 - INFO - Discord response sent
+2025-09-09 16:25:33,894 - INFO - Discord message from queredda: 'lineup'
+2025-09-09 16:25:34,440 - INFO - Discord response sent
+2025-09-09 16:25:42,517 - INFO - Discord message from queredda: 'siapa tampil hari ini'
+2025-09-09 16:25:42,913 - INFO - Discord response sent
+2025-09-09 16:55:32,293 - INFO - FestPal Bot starting - Mode: CLI
+2025-09-09 16:55:32,296 - INFO - FestPal Bot CLI started
+2025-09-09 16:55:34,364 - INFO - CLI user query: 'halo'
+2025-09-09 16:55:34,364 - INFO - CLI bot response provided
+2025-09-09 16:55:48,690 - INFO - CLI user query: 'siapa guest star nya?'
+2025-09-09 16:55:48,692 - INFO - CLI bot response provided
+2025-09-09 16:55:53,115 - INFO - CLI user query: 'lineup'
+2025-09-09 16:55:53,115 - INFO - CLI bot response provided
+2025-09-09 16:56:15,487 - INFO - CLI user query: 'siapa tampil hari ini'
+2025-09-09 16:56:15,488 - INFO - CLI bot response provided
+2025-09-09 16:56:34,918 - INFO - CLI user query: 'jadwal hari ini'
+2025-09-09 16:56:34,920 - INFO - CLI bot response provided
+2025-09-09 16:56:44,649 - INFO - CLI user query: 'parkir dimana'
+2025-09-09 16:56:44,650 - INFO - CLI bot response provided
+2025-09-09 16:56:52,516 - INFO - CLI user query: 'aturan'
+2025-09-09 16:56:52,516 - INFO - CLI bot response provided
+2025-09-09 16:57:12,461 - INFO - CLI user query: 'terima kasih'
+2025-09-09 16:57:12,462 - INFO - CLI bot response provided
+2025-09-09 16:57:20,320 - INFO - CLI session ended by user
+2025-09-09 17:17:03,210 - INFO - FestPal Bot starting - Mode: CLI
+2025-09-09 17:17:03,212 - INFO - FestPal Bot CLI started
+2025-09-09 17:17:06,288 - INFO - CLI user query: 'halo'
+2025-09-09 17:17:06,289 - INFO - CLI bot response provided
+2025-09-09 17:17:07,587 - INFO - CLI user query: 'hi'
+2025-09-09 17:17:07,587 - INFO - CLI bot response provided
+2025-09-09 17:17:09,966 - INFO - CLI user query: 'siapa kamu'
+2025-09-09 17:17:09,966 - INFO - CLI bot response provided
+2025-09-09 17:17:12,073 - INFO - CLI user query: 'kamu siapa'
+2025-09-09 17:17:12,073 - INFO - CLI bot response provided
+2025-09-09 17:17:20,411 - INFO - CLI user query: 'nama mu siapa'
+2025-09-09 17:17:20,411 - INFO - CLI bot response provided
+2025-09-09 17:17:34,069 - INFO - CLI user query: 'help'
+2025-09-09 17:17:34,069 - INFO - CLI bot response provided
+2025-09-09 17:17:44,450 - INFO - CLI user query: 'info tiket'
+2025-09-09 17:17:44,450 - INFO - CLI bot response provided
+2025-09-09 17:17:49,850 - INFO - CLI user query: 'harga tiket'
+2025-09-09 17:17:49,850 - INFO - CLI bot response provided
+2025-09-09 17:17:53,282 - INFO - CLI user query: 'jadwal'
+2025-09-09 17:17:53,283 - INFO - CLI bot response provided
+2025-09-09 17:18:21,684 - INFO - CLI user query: 'lineup'
+2025-09-09 17:18:21,685 - INFO - CLI bot response provided
+2025-09-09 17:18:24,820 - INFO - CLI user query: 'help'
+2025-09-09 17:18:24,820 - INFO - CLI bot response provided
+2025-09-09 17:18:33,346 - INFO - CLI user query: 'siapa yang tampil'
+2025-09-09 17:18:33,346 - INFO - CLI bot response provided
+2025-09-09 17:18:39,699 - INFO - CLI user query: 'cs'
+2025-09-09 17:18:39,699 - INFO - CLI bot response provided
+2025-09-09 17:18:41,766 - INFO - CLI user query: 'help'
+2025-09-09 17:18:41,767 - INFO - CLI bot response provided
+2025-09-09 17:18:50,941 - INFO - CLI user query: 'bisa pakai ovo?'
+2025-09-09 17:18:50,948 - INFO - CLI bot response provided
+2025-09-09 17:19:02,273 - INFO - CLI user query: 'bisa pakai gopay?'
+2025-09-09 17:19:02,274 - INFO - CLI bot response provided
+2025-09-09 17:19:08,227 - INFO - CLI user query: 'bisa pakai gopay later?'
+2025-09-09 17:19:08,229 - INFO - CLI bot response provided
+2025-09-09 17:20:01,389 - INFO - CLI user query: 'halo mau nanya'
+2025-09-09 17:20:01,393 - INFO - CLI bot response provided
+2025-09-09 17:20:07,952 - INFO - CLI user query: 'siapa namamu'
+2025-09-09 17:20:07,952 - INFO - CLI bot response provided
+2025-09-09 17:20:10,823 - INFO - CLI user query: 'who u'
+2025-09-09 17:20:10,823 - INFO - CLI bot response provided
+2025-09-09 17:20:12,442 - INFO - CLI user query: 'who r u'
+2025-09-09 17:20:12,442 - INFO - CLI bot response provided
+2025-09-09 17:20:15,465 - INFO - CLI user query: 'who am i'
+2025-09-09 17:20:15,466 - INFO - CLI bot response provided
+2025-09-09 17:21:48,002 - INFO - CLI user query: 'lokasi dimana'
+2025-09-09 17:21:48,004 - INFO - CLI bot response provided
+2025-09-09 17:21:56,472 - INFO - CLI user query: 'parkir gimana'
+2025-09-09 17:21:56,473 - INFO - CLI bot response provided
+2025-09-09 17:22:10,368 - INFO - CLI user query: 'minta refund'
+2025-09-09 17:22:10,369 - INFO - CLI bot response provided
+2025-09-09 17:22:25,624 - INFO - CLI user query: 'refund order 485'
+2025-09-09 17:22:25,625 - INFO - CLI bot response provided
+2025-09-09 17:22:35,171 - INFO - CLI user query: 'menu'
+2025-09-09 17:22:35,172 - INFO - CLI bot response provided
+2025-09-09 17:22:40,023 - INFO - CLI user query: 'qr code fail'
+2025-09-09 17:22:40,024 - INFO - CLI bot response provided
+2025-09-09 17:22:43,947 - INFO - CLI user query: 'resale'
+2025-09-09 17:22:43,947 - INFO - CLI bot response provided
+2025-09-09 17:23:18,226 - INFO - CLI user query: 'tidak terima tiket'
+2025-09-09 17:23:18,227 - INFO - CLI bot response provided
+2025-09-09 17:27:04,370 - INFO - CLI user query: 'ga dapet eticket'
+2025-09-09 17:27:04,377 - INFO - CLI bot response provided
+2025-09-09 17:27:13,312 - INFO - CLI user query: 'voucher?'
+2025-09-09 17:27:13,313 - INFO - CLI bot response provided
+2025-09-09 17:27:18,610 - INFO - CLI user query: 'ada promo ga'
+2025-09-09 17:27:18,611 - INFO - CLI bot response provided
+2025-09-09 17:27:25,886 - INFO - CLI user query: 'cs'
+2025-09-09 17:27:25,886 - INFO - CLI bot response provided
+2025-09-09 17:27:28,846 - INFO - CLI user query: 'hotline'
+2025-09-09 17:27:28,847 - INFO - CLI bot response provided
+2025-09-09 17:27:31,809 - INFO - CLI user query: 'booth'
+2025-09-09 17:27:31,809 - INFO - CLI bot response provided
+2025-09-09 17:27:35,387 - INFO - CLI user query: 'dokter'
+2025-09-09 17:27:35,388 - INFO - CLI bot response provided
+2025-09-09 17:27:40,418 - INFO - CLI user query: 'barangku hilang'
+2025-09-09 17:27:40,419 - INFO - CLI bot response provided
+2025-09-09 17:27:46,520 - INFO - CLI user query: 'oke'
+2025-09-09 17:27:46,520 - INFO - CLI bot response provided
+2025-09-09 17:27:55,704 - INFO - CLI user query: 'goodbye'
+2025-09-09 17:27:55,704 - INFO - CLI bot response provided
+2025-09-09 17:28:48,333 - INFO - CLI user query: 'goodbye'
+2025-09-09 17:28:48,334 - INFO - CLI bot response provided
+2025-09-09 17:28:53,572 - INFO - CLI user query: 'vip'
+2025-09-09 17:28:53,573 - INFO - CLI bot response provided
+2025-09-09 17:29:51,478 - INFO - CLI user query: 'saya senang'
+2025-09-09 17:29:51,480 - INFO - CLI bot response provided
+2025-09-09 17:29:55,736 - INFO - CLI user query: 'me too'
+2025-09-09 17:29:55,736 - INFO - CLI bot response provided
+2025-09-09 17:30:07,635 - INFO - CLI user query: 'lineup'
+2025-09-09 17:30:07,637 - INFO - CLI bot response provided
+2025-09-09 17:30:58,341 - INFO - CLI session ended by user
+2025-09-09 17:31:04,811 - INFO - FestPal Bot starting - Mode: Discord
+2025-09-09 17:31:04,811 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-09 17:31:04,814 - INFO - Starting Discord bot...
+2025-09-09 17:31:04,814 - INFO - logging in using static token
+2025-09-09 17:31:07,076 - INFO - Shard ID None has connected to Gateway (Session ID: 53dd406816e820fc915a5ea844450971).
+2025-09-09 17:31:09,095 - INFO - Discord bot logged in as FestPal#5061 (id: 1414137459897536557)
+2025-09-09 17:31:29,290 - INFO - Discord message from queredda: 'halo <@1414137459897536557>'
+2025-09-09 17:31:29,926 - INFO - Discord response sent
+2025-09-09 17:31:33,111 - INFO - Discord message from queredda: 'help'
+2025-09-09 17:31:33,821 - INFO - Discord response sent
+2025-09-09 17:31:40,988 - INFO - Discord message from queredda: 'siapa yang tampil?'
+2025-09-09 17:31:41,396 - INFO - Discord response sent
+2025-09-09 17:31:53,860 - INFO - Discord message from queredda: 'berapa harga tiket nya?'
+2025-09-09 17:31:54,359 - INFO - Discord response sent
+2025-09-09 17:32:12,826 - INFO - Discord message from queredda: 'pembayaran bisa pakai ovo?'
+2025-09-09 17:32:13,449 - INFO - Discord response sent
+2025-09-09 17:32:28,717 - INFO - Discord message from queredda: 'di mana venue nya?'
+2025-09-09 17:32:29,484 - INFO - Discord response sent
+2025-09-09 17:33:34,853 - INFO - Discord message from queredda: 'kalau parkinya gimana?'
+2025-09-09 17:33:35,371 - INFO - Discord response sent
+2025-09-09 17:33:39,764 - INFO - Discord message from queredda: 'parkir gimana?'
+2025-09-09 17:33:40,380 - INFO - Discord response sent
+2025-09-09 17:34:35,063 - INFO - Discord message from queredda: 'ada promo ga?'
+2025-09-09 17:34:35,956 - INFO - Discord response sent
+2025-09-09 17:34:46,736 - INFO - Discord message from queredda: 'cara beli tiketnya gimana?'
+2025-09-09 17:34:47,122 - INFO - Discord response sent
+2025-09-09 17:35:43,092 - INFO - Discord message from queredda: 'qr saya tidak terbaca'
+2025-09-09 17:35:43,784 - INFO - Discord response sent
+2025-09-09 17:36:05,072 - INFO - Discord message from queredda: 'kalau mau resale?'
+2025-09-09 17:36:05,699 - INFO - Discord response sent
+2025-09-09 17:36:18,433 - INFO - Discord message from queredda: 'refund?'
+2025-09-09 17:36:18,828 - INFO - Discord response sent
+2025-09-09 17:36:30,291 - INFO - Discord message from queredda: 'refund order 382'
+2025-09-09 17:36:30,745 - INFO - Discord response sent
+2025-09-09 17:36:51,565 - INFO - Discord message from queredda: 'mau beli merch, dimana?'
+2025-09-09 17:36:52,220 - INFO - Discord response sent
+2025-09-09 17:37:07,434 - INFO - Discord message from queredda: 'aku mau beli merch'
+2025-09-09 17:37:08,071 - INFO - Discord response sent
+2025-09-09 17:37:17,880 - INFO - Discord message from queredda: 'kalau medis gimana?'
+2025-09-09 17:37:18,275 - INFO - Discord response sent
+2025-09-09 17:37:26,173 - INFO - Discord message from queredda: 'barangku hilangg'
+2025-09-09 17:37:26,600 - INFO - Discord response sent
+2025-09-09 17:37:33,237 - INFO - Discord message from queredda: 'barang ku hilang'
+2025-09-09 17:37:33,624 - INFO - Discord response sent
+2025-09-09 17:38:13,224 - INFO - Discord message from queredda: 'terima kasih'
+2025-09-09 17:38:13,822 - INFO - Discord response sent
+2025-09-09 17:38:28,401 - INFO - Discord message from queredda: 'bye'
+2025-09-09 17:38:28,794 - INFO - Discord response sent
+2025-09-09 17:39:50,947 - INFO - FestPal Bot starting - Mode: Discord
+2025-09-09 17:39:50,947 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-09 17:39:50,949 - INFO - Starting Discord bot...
+2025-09-09 17:39:50,949 - INFO - logging in using static token
+2025-09-09 17:39:53,101 - INFO - Shard ID None has connected to Gateway (Session ID: 1d63eb66cca18e2fae14e8f2316875f5).
+2025-09-09 17:39:55,103 - INFO - Discord bot logged in as FestPal#5061 (id: 1414137459897536557)
+2025-09-09 17:39:58,533 - INFO - Discord message from queredda: 'help'
+2025-09-09 17:39:58,969 - INFO - Discord response sent
+2025-09-09 17:40:09,909 - INFO - Discord message from queredda: 'alamat'
+2025-09-09 17:40:10,297 - INFO - Discord response sent
+2025-09-09 17:40:16,666 - INFO - Discord message from queredda: 'halo'
+2025-09-09 17:40:17,283 - INFO - Discord response sent
+2025-09-09 17:41:13,503 - INFO - Discord message from flaarra: 'halo <@1414137459897536557>'
+2025-09-09 17:41:14,072 - INFO - Discord response sent
+2025-09-09 17:41:17,614 - INFO - Discord message from flaarra: 'help'
+2025-09-09 17:41:18,006 - INFO - Discord response sent
+2025-09-09 17:41:26,809 - INFO - Discord message from flaarra: 'siapa yang tampil?'
+2025-09-09 17:41:27,315 - INFO - Discord response sent
+2025-09-09 17:41:36,542 - INFO - Discord message from flaarra: 'berapa harga tiketnya?'
+2025-09-09 17:41:37,154 - INFO - Discord response sent
+2025-09-09 17:41:50,353 - INFO - Discord message from flaarra: 'pembayaran bisa pakai shopeepay?'
+2025-09-09 17:41:50,761 - INFO - Discord response sent
+2025-09-09 17:42:00,501 - INFO - Discord message from flaarra: 'di mana venue nya?'
+2025-09-09 17:42:00,925 - INFO - Discord response sent
+2025-09-09 17:42:09,062 - INFO - Discord message from flaarra: 'parkir dimana?'
+2025-09-09 17:42:09,492 - INFO - Discord response sent
+2025-09-09 17:42:15,961 - INFO - Discord message from flaarra: 'ada promo?'
+2025-09-09 17:42:16,407 - INFO - Discord response sent
+2025-09-09 17:42:28,432 - INFO - Discord message from flaarra: 'cara beli tiketnya gimana?'
+2025-09-09 17:42:28,879 - INFO - Discord response sent
+2025-09-09 17:42:40,748 - INFO - Discord message from flaarra: 'qr tidak bisa terbaca'
+2025-09-09 17:42:41,222 - INFO - Discord response sent
+2025-09-09 17:42:51,191 - INFO - Discord message from flaarra: 'boleh resale tiket ga?'
+2025-09-09 17:42:51,896 - INFO - Discord response sent
+2025-09-09 17:42:58,505 - INFO - Discord message from flaarra: 'refund?'
+2025-09-09 17:42:58,956 - INFO - Discord response sent
+2025-09-09 17:43:11,683 - INFO - Discord message from flaarra: 'refund order 467'
+2025-09-09 17:43:12,109 - INFO - Discord response sent
+2025-09-09 17:43:20,682 - INFO - Discord message from flaarra: 'mau beli merch dong'
+2025-09-09 17:43:21,107 - INFO - Discord response sent
+2025-09-09 17:43:28,287 - INFO - Discord message from flaarra: 'kalau medis gimana?'
+2025-09-09 17:43:28,682 - INFO - Discord response sent
+2025-09-09 17:43:35,434 - INFO - Discord message from flaarra: 'barangku hilang'
+2025-09-09 17:43:35,847 - INFO - Discord response sent
+2025-09-09 17:43:41,878 - INFO - Discord message from flaarra: 'terima kasih'
+2025-09-09 17:43:42,495 - INFO - Discord response sent
+2025-09-09 17:43:46,364 - INFO - Discord message from flaarra: 'bye'
+2025-09-09 17:43:46,752 - INFO - Discord response sent
