@@ -4,7 +4,7 @@ Chatbot cerdas untuk festival musik dengan dukungan CLI dan Discord. Bot ini men
 
 ## Description
 
-Tugas Project Naural Language Processing 2025
+Tugas Project Natural Language Processing 2025
 | Nama | NIM |
 |--|--|
 | Flavia Hidayriamraata Pualam | 22/494376/TK54219 |
