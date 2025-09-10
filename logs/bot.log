@@ -330,3 +330,47 @@
 2025-09-09 17:43:42,495 - INFO - Discord response sent
 2025-09-09 17:43:46,364 - INFO - Discord message from flaarra: 'bye'
 2025-09-09 17:43:46,752 - INFO - Discord response sent
+2025-09-09 20:30:26,634 - INFO - FestPal Bot starting - Mode: CLI
+2025-09-09 20:30:26,636 - INFO - FestPal Bot CLI started
+2025-09-09 20:30:36,639 - INFO - CLI user query: 'siapa jam 6?'
+2025-09-09 20:30:36,640 - INFO - CLI bot response provided
+2025-09-09 20:30:39,747 - INFO - CLI user query: 'jam 6?'
+2025-09-09 20:30:39,748 - INFO - CLI bot response provided
+2025-09-09 20:30:48,323 - INFO - CLI user query: 'pukul 6'
+2025-09-09 20:30:48,324 - INFO - CLI bot response provided
+2025-09-09 20:30:54,627 - INFO - CLI user query: 'jam'
+2025-09-09 20:30:54,628 - INFO - CLI bot response provided
+2025-09-09 20:31:03,738 - INFO - CLI user query: 'jam 3'
+2025-09-09 20:31:03,738 - INFO - CLI bot response provided
+2025-09-09 20:32:02,462 - INFO - CLI user query: 'siapa jam 19:00'
+2025-09-09 20:32:02,466 - INFO - CLI bot response provided
+2025-09-09 20:32:19,147 - INFO - CLI user query: 'jadwal jam 18:00'
+2025-09-09 20:32:19,148 - INFO - CLI bot response provided
+2025-09-09 20:32:21,839 - INFO - CLI user query: 'lineup'
+2025-09-09 20:32:21,840 - INFO - CLI bot response provided
+2025-09-10 17:31:44,429 - INFO - FestPal Bot starting - Mode: CLI
+2025-09-10 17:31:44,431 - INFO - FestPal Bot CLI started
+2025-09-10 17:31:45,903 - INFO - CLI user query: 'halo'
+2025-09-10 17:31:45,904 - INFO - CLI bot response provided
+2025-09-10 17:31:47,493 - INFO - CLI user query: 'kamu siapa'
+2025-09-10 17:31:47,493 - INFO - CLI bot response provided
+2025-09-10 17:31:49,880 - INFO - CLI user query: 'siapa kamu'
+2025-09-10 17:31:49,881 - INFO - CLI bot response provided
+2025-09-10 17:32:43,485 - INFO - CLI user query: 'kamu apa'
+2025-09-10 17:32:43,486 - INFO - CLI bot response provided
+2025-09-10 17:32:47,946 - INFO - CLI user query: 'kamu siapa'
+2025-09-10 17:32:47,947 - INFO - CLI bot response provided
+2025-09-10 17:38:15,661 - INFO - CLI session ended by keyboard interrupt
+2025-09-10 17:41:29,436 - INFO - FestPal Bot starting - Mode: CLI
+2025-09-10 17:41:29,439 - INFO - FestPal Bot CLI started
+2025-09-10 17:41:31,989 - INFO - CLI user query: 'siapa kamu'
+2025-09-10 17:41:31,990 - INFO - CLI bot response provided
+2025-09-10 17:41:33,583 - INFO - CLI user query: 'kamu siapa'
+2025-09-10 17:41:33,583 - INFO - CLI bot response provided
+2025-09-10 17:41:41,983 - INFO - CLI user query: 'hilang'
+2025-09-10 17:41:41,984 - INFO - CLI bot response provided
+2025-09-10 17:41:45,189 - INFO - CLI user query: 'refund'
+2025-09-10 17:41:45,190 - INFO - CLI bot response provided
+2025-09-10 17:41:46,805 - INFO - CLI user query: 'clear'
+2025-09-10 17:41:46,805 - INFO - CLI bot response provided
+2025-09-10 17:41:47,639 - INFO - CLI session ended by keyboard interrupt
